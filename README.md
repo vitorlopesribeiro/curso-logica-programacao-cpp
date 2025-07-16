@@ -1,6 +1,6 @@
 # Exercícios de Programação em C++
 
-Este repositório contém meus exercícios de lógica e estrutura de dados feitos em C++, organizados por nível de dificuldade e tema.
+Este repositório contém meus exercícios de lógica e estrutura de dados feitos em C++.
 
 ## 📁 Estrutura
 
