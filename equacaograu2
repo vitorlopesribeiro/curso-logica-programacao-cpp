@@ -1,0 +1,36 @@
+/* Resolve uma equação do segundo grau com entrada de A, B e C */
+#include <iostream>
+#include <cmath>
+
+using namespace std;
+
+int main()
+{
+    double A,B,C,X1,X2,D;
+    
+    cout << "Insira o coeficiente A" << endl;
+    cin >> A;
+    cout << "Insira o coeficiente B" << endl;
+    cin >> B;
+    cout << "Insira o coeficiente C" << endl;
+    cin >> C;
+    
+    D = pow(B, 2)-4*A*C;
+    
+    if(A == 0){
+        cout << "Não é uma equação do segundo grau"<< endl;
+    } else if (D < 0){
+        cout << "A equação não possui raizes reais"<< endl;
+    } else if (D == 0){
+        cout << "A equação possui uma unica raiz" << endl;
+        X1 = (-B)/(2*A);
+        cout << X1;
+    } else {
+        X1 = (-B + sqrt(D))/(2*A);
+        X2 = (-B - sqrt(D))/(2*A);
+        cout << X1 << endl << X2;
+    }
+
+    
+    return 0;
+}
