@@ -9,7 +9,7 @@ Este repositório contém meus exercícios de lógica e estrutura de dados feito
 - `03_metodos/` → Funções e recursividade
 - `04_ponteiros/` → Ponteiros e memória
 - `05_busca_binaria/` → Implementações iterativas e recursivas
-- `06_ordenacao/` → Algoritmos como Bubble Sort, Insertion Sort
+- `06_ordenacao/` → Algoritmos como Bubble Sort
 - `07_poo/` → Conceitos de programação orientada a objetos
 - `08_estruturas_lineares/`  
   - `fila/`  
