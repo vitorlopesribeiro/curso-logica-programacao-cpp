@@ -5,7 +5,7 @@ Este repositório contém meus exercícios de lógica e estrutura de dados feito
 ## 📁 Estrutura
 
 - `01_basico/` → Entrada/saída, variáveis, condicionais
-- `02_matrizes/` → Manipulação de matrizes 2D
+- `02_matrizes_vetores/` → Manipulação de matrizes 2D
 - `03_metodos/` → Funções e recursividade
 - `04_ponteiros/` → Ponteiros e memória
 - `05_estruturas_lineares/`  
