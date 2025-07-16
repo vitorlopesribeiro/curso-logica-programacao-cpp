@@ -8,13 +8,13 @@ Este repositório contém meus exercícios de lógica e estrutura de dados feito
 - `02_matrizes_vetores/` → Manipulação de matrizes 2D e vetores
 - `03_metodos/` → Funções e recursividade
 - `04_ponteiros/` → Ponteiros e memória
-- `05_estruturas_lineares/`  
+- `05_busca_binaria/` → Implementações iterativas e recursivas
+- `06_ordenacao/` → Algoritmos como Bubble Sort, Insertion Sort
+- `07_poo/` → Conceitos de programação orientada a objetos
+- `08_estruturas_lineares/`  
   - `fila/`  
   - `pilha/`  
   - `lista/`  
-- `06_busca_binaria/` → Implementações iterativas e recursivas
-- `07_ordenacao/` → Algoritmos como Bubble Sort, Insertion Sort
-- `08_poo/` → Conceitos de programação orientada a objetos
 
 ## 🚧 Em construção
 
