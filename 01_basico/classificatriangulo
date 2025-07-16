@@ -1,0 +1,25 @@
+/* Classifica um triângulo com entradas A, B e C */
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    double A,B,C;
+    
+    cout << "Insira o lado A" << endl;
+    cin >> A;
+    cout << "Insira o lado B" << endl;
+    cin >> B;
+    cout << "Insira o lado C" << endl;
+    cin >> C;
+    
+    if(A == B && B == C){
+        cout << "É um triângulo equilatero"<< endl;
+    } else if ((A == B && A != C) || (A == C && A != B) || (B == C && B != A)){
+        cout << "É um triângulo isósceles"<< endl;
+    } else {
+        cout << "É um triângulo escaleno" << endl;
+    }
+    
+    return 0;
+}
