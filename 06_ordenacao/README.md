@@ -5,8 +5,8 @@ Este projeto implementa o algoritmo de ordenação **Bubble Sort** usando a ling
 ## 📁 Estrutura do Projeto
 
 bubble-sort-cpp/
-├── main.cpp         # Código-fonte com Bubble Sort
-├── README.md        # Este arquivo com explicações
+'''├── main.cpp         # Código-fonte com Bubble Sort
+├── README.md        # Este arquivo com explicações'''
 
 ## 🔧 Funcionalidades
 
