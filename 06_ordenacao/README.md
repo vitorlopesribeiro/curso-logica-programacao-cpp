@@ -1,27 +1,15 @@
 # 📊 Bubble Sort em C++
 
-Este repositório contém um exemplo simples de implementação do algoritmo de ordenação **Bubble Sort** em linguagem **C++**, com saída no terminal.
+Este projeto implementa o algoritmo de ordenação **Bubble Sort** usando a linguagem **C++**, com uma abordagem otimizada para detectar quando o array já está ordenado.
+
+## 📁 Estrutura do Projeto
+
+bubble-sort-cpp/
+├── main.cpp # Código-fonte com Bubble Sort
+├── README.md # Este arquivo com explicações
 
 ## 🔧 Funcionalidades
 
-- Troca eficiente de elementos usando ponteiros (passagem por referência)
-- Otimização para parar a ordenação se o array já estiver ordenado
+- Ordenação crescente de números inteiros
+- Otimização para evitar iterações desnecessárias
 - Impressão do array antes e depois da ordenação
-
-## 📁 Estrutura
-
-📘 Explicação do código
-swap() → Troca dois elementos de posição
-
-bubbleSort() → Percorre o array várias vezes trocando os elementos adjacentes que estão fora de ordem
-
-printArray() → Imprime o array no terminal
-
-📚 Conceitos abordados
-Algoritmos de ordenação
-
-Passagem por referência em funções
-
-Laços aninhados
-
-Otimização de loops
