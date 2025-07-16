@@ -1,4 +1,4 @@
-/* Fibonacci */
+/* Fibonacci função recursiva */
 #include <iostream>
 
 using namespace std;
